@@ -86,5 +86,4 @@ yolo_project/
 - **Python 3.x**: Core programming language.
 
 ## 📝 Author
-[Your Name]
-[Your Roll Number]
+Vatsal Yadav
