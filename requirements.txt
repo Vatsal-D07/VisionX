@@ -1,0 +1,9 @@
+ultralytics>=8.2.0
+opencv-python
+streamlit
+# Pinning torch to 2.5.1 to avoid PyTorch 2.6+ weights_only=True security error
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+pillow
+numpy

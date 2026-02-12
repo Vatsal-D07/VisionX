@@ -1,0 +1,5 @@
+Python: 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)]
+MP Path: D:\College\yolo - Copy\venv\Lib\site-packages\mediapipe\__init__.py
+Dir(mp): ['Image', 'ImageFormat', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', '__version__', 'tasks']
+from mediapipe import solutions: FAIL cannot import name 'solutions' from 'mediapipe' (D:\College\yolo - Copy\venv\Lib\site-packages\mediapipe\__init__.py)
+import mediapipe.python.solutions: FAIL No module named 'mediapipe.python'
